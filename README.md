@@ -1,2 +1,0 @@
-# GitHubApps
-Sample GitHub Apps
